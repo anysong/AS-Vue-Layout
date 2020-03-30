@@ -1,9 +1,3 @@
-# Simple PC
-
-```
-# vue create pc
-# env
-```
 
 
 ## Project setup
